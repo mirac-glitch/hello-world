@@ -1,2 +1,2 @@
 # hello-world
-nothing
+I am learning code right now
